@@ -15,6 +15,24 @@ nav { background-color: #DDA0DD;
 main { background-color: #e5e4d7;
 		margin: 10px;
 		border-radius: 5px;
-		padding: 20px;
-		font-size: 110%; }		
+		padding: 20px;}		
 		
+aside { background-color: #B0E0E6
+	margin: 10px;
+	border-radius: 5px;
+	padding: 20px;
+	float: right;
+	width: 260px;
+	clear: right; }
+
+.sidebar { margin: 10px;
+	border-radius: 5px;
+	width: 280px;
+	float: right;
+	clear: right; }
+
+footer {background-color: #5c765e;
+	margin: 10px;
+	height: 90px;
+	border-radius: 5px;
+	clear: both; }
